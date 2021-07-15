@@ -2,6 +2,8 @@
 Created with CodeSandbox
 Successfully completed the "Javascript and backend with node JS" 7- day Bootcamp offered by Shape AI #googledevelopers and hands on project at the end, using the technologies #nodejs and #expressjs.
 
+https://www.youtube.com/playlist?list=PL7zl8TDRnbul748Yq6CTEnUzUfGE26AOA
+
 Below are the certificates recieved,
 
 https://lnkd.in/edDeDZd
